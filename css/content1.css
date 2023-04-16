@@ -1,0 +1,33 @@
+.content1{
+    padding-top:170px;
+    display: flex;
+    gap:20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.content-heading{
+    color:black;
+    font-weight:700;
+    font-family: 'Poppins', sans-serif;
+}
+.content-para{
+    padding:0 16rem;
+}
+.btn-content{
+    margin-top:29px;
+    font-size:1rem;
+    font-weight: 600;
+    border-style: none;
+    color: white;
+    background-color:#FD53C0;
+    padding:20px 73px;
+    border-radius:30px;
+}
+.screen-mockup{
+    padding:65px 0;
+    width:70%;
+}

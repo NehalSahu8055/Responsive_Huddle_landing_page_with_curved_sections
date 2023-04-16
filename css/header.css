@@ -1,0 +1,22 @@
+.logo{
+    padding:52px 64px;
+    display: inline-flex;
+    align-items: center;
+ }
+ .logo-huddle{
+     width:188px;
+     height:29px;
+ }
+ .btn-header{
+     border:1.4px solid #FD53C0;
+     background-color: white;
+     color:#FD53C0;
+     padding:8px 28px;
+     margin:50px 64px;
+     border-radius:30px;
+ }
+ .btn{
+     display: inline-flex; 
+     position: absolute;
+     right:47px;
+ }

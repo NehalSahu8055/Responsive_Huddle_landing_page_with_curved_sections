@@ -1,0 +1,47 @@
+.grow-together, .ur-user{
+    display:flex;
+    background-color:#F6FBFF;
+    padding:58px 14%;
+}
+.grow-bg-top ,.ur-user-bg-top{
+    width:100%;
+    height:140px;
+    background-image:url(../images/bg-section-top-desktop-1.svg);
+    background-repeat: no-repeat,no-repeat;
+    background-size: cover;
+}
+.grow-bg-bottom ,.ur-user-bg-bottom{
+    width:100%;
+    height:140px;
+    background-image:url(../images/bg-section-bottom-desktop-1.svg);
+    background-repeat: no-repeat,no-repeat;
+    background-size: cover;
+}
+.grow-together img, .flowing img, .ur-user img{
+    width:39.2%;
+}
+.grow-content, .flowing-content, .ur-user-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.grow-content h2,.flowing h2, .ur-user h2{
+    color:black;
+    font-weight:700;
+    font-family: 'Poppins', sans-serif;
+}
+.grow-content p, .flowing-content p, .ur-user p{
+    font-size: 0.9rem;
+    padding-top:18px;
+}
+.grow-content p, .ur-user p{
+    
+    padding-right:6%;
+}
+.flowing{
+    display: flex;
+    padding :122px 14%;
+}
+.flowing-content {
+    padding-left:10%;
+}

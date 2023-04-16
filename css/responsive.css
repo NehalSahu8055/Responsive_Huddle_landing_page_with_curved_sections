@@ -1,0 +1,98 @@
+@media only screen and (max-width:1000px){
+    .logo{
+        padding:20px;
+    }
+    .logo-huddle{
+        width:100%;
+        height: 20px;
+    }
+    .btn-header{
+        margin:20px 0;
+        padding:5px 14px;
+    }
+    .logo{
+        padding-left:20px;
+    }
+    .content1{
+        padding-top:96px;
+    }
+    .content-para{
+        padding:0 40px;
+    }
+    .stats{
+        flex-direction: column;
+        gap:50px;
+    }
+    .stats2{
+        margin-left: 0;
+    }
+    .grow-together,.ur-user{
+        padding: 82px 9%;
+        flex-direction: column-reverse;
+        text-align: center;
+
+    }
+    .flowing{
+        padding:124px 9%;
+        flex-direction: column;
+        text-align: center;
+    }
+    .grow-together img, .flowing img, .ur-user img{
+        width:80%;
+        margin:0 auto;
+        margin-bottom:60px;
+    }
+    .pre-footer{
+        padding-bottom: 120px;
+    }
+    .pre-footer .content-heading{
+        text-align: center;
+        margin:0 60px;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column-reverse;
+        background-color: #01262F;
+        color:white;
+        padding:0px 60px 34px 60px;
+    }
+    .footer p{
+        padding:0;
+    }
+    .curve-footer{
+        background-image: url(../images/bg-footer-top-mobile.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 50px;
+    }
+    .grow-bg-top ,.ur-user-bg-top{
+        width:100%;
+        height:98px;
+        background-image:url(../images/bg-section-top-mobile-1.svg);
+        background-repeat: no-repeat,no-repeat;
+    }
+    .grow-bg-bottom ,.ur-user-bg-bottom{
+        width:100%;
+        height:95px;
+        background-image:url(../images/bg-section-bottom-mobile-2.svg);
+        background-repeat: no-repeat,no-repeat;
+        background-size: cover;
+    }
+    .newsletter h3{
+        padding-top:58px;
+        padding-bottom: 24px;
+    }
+    .emaill{
+        margin-bottom:16px;
+    }
+    .stats-img{
+        width: 8%;
+    }
+    .subscribe{
+        margin-bottom:85px;
+    }
+    .footer-huddle-logo{
+        margin-bottom:16px;
+    }
+}

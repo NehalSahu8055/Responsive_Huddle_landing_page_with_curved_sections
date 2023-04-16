@@ -1,0 +1,28 @@
+.stats{
+    display: flex;  
+    justify-content: center;
+    margin-bottom:85px;
+}
+
+.stats1, .stats2{
+    text-align: center;
+}
+.stats2{
+    margin-left:15.9rem;
+}
+.stats-img{
+    width:20%;
+}
+ul{
+    list-style: none;;
+}
+.records{
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: black;
+}
+.description{
+    font-size: 0.9rem;
+    color:#8D969E;
+    text-align: center;
+}
